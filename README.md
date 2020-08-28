@@ -1,2 +1,2 @@
-# README.cd
+# README.md
 Bruninho lindo
